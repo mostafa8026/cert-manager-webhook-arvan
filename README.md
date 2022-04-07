@@ -53,7 +53,7 @@ spec:
             ttl: 120
             authApiSecretRef: 
               name: "arvan-credentials"
-              key":  "apikey"
+              key:  "apikey"
             baseUrl: "https://napi.arvancloud.com"
 ```
 
